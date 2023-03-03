@@ -1,4 +1,4 @@
-# Spanzuratoarea
+# Hangman
 
 This is a hangman game written in C# using Windows Forms. The objective of the game is to guess a hidden word by
 suggesting letters one at a time. If the suggested letter is part of the word, all occurrences of that letter are revealed.
